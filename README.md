@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="UC4/Imagens/MarcaVisual.png" width="25%">
+  <img src="/Imagens/MarcaVisual.png" width="25%">
 </p>
 <br><br>
 Este é o Site criado para o Projeto de HTML da faculdade, feito pelo nosso time, Quick tech, uma empresa inovadora, que trabalhará com manutenções e consultoria para Desktop e Notebooks, onde iremos atender tanto pessoas físicas como pessoas jurídicas, teremos nossa loja física, e também atenderemos a domicílio, seremos uma EPP (Empresa de pequeno porte) com foco na qualidade do atendimento para nossos clientes.
@@ -18,15 +18,12 @@ O projeto Quick Tech foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Nossa paleta de cores
 
-![Paletadecores](UC4/Imagens/Paleta_de_cores2.png)
+![Paletadecores](/Imagens/Paleta_de_cores2.png)
 ---
 
 
 ### Desenvolvedores: 
 |Nome|Email| GitHub | 
 | -------- | -------- | -------- | 
-|Vitor Machado|vitorgomes.machado94@gmail.com|https://github.com/VITOR-DV|
-|Fernando Namba|namba.fernando@gmail.com|https://github.com/FernandoNamba|
-|Lucas Eduardo|lelds.2001@gmail.com|https://github.com/lucaseduardo09|
-|Vinícius Stain|Viniisteinn@gmail.com|https://github.com/vnzinn01|
 |Santiago Castrillon|santiagocastrillonprof@gmail.com|https://github.com/san2003|
+|João Victor|joaovictorizidrodesousa@gmail.com|https://github.com/Johnizidro|
